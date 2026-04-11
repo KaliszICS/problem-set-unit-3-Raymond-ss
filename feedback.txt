@@ -1,0 +1,14 @@
+K(30%): 90
+I(30%): 60
+C(10%): 60
+A(30%): 60
+69% of 90: 62.1
+
+Please check your spelling, you frequently spelt Invalid and Valid incorrectly.
+Error says domain too long instead of local
+extension when length of 7 is giving valid instead of invalid.
++ and _ are allowed in the local, they cannot start it however.  Error must reflect that
+Gmail usernames should be allowed to start with a .
+Gmail normalized and Valid are being printed at the same time.
+Need some more comments, this is very minimal.
+Input should be on the same line as prompt.
